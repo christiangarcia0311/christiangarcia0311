@@ -9,7 +9,7 @@
 
 ## Current Status:
 - 💻 3rd year CS Student
-- 🔍 Looking for connections in Web Development and Package Deployment.
+- 🔍 Looking for connections in **Web Development** and **Package Deployment**.
 - 💬 Feel free to discuss me about **Machine Learning**, **Web Development**, **Programming** and **Frameworks**. 
 
 ## Tools, Languages and Frameworks i work on:
@@ -25,11 +25,13 @@
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white&logoSize=amg)
 ![Static Badge](https://img.shields.io/badge/xampp-%23FB7A24?style=for-the-badge&logo=Xampp&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Vs_Code-black?style=for-the-badge&logo=Visual-studio-code&logoColor=%23007ACC&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PyCharm-%2300BFB3?style=for-the-badge&logo=Pycharm&logoColor=black&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=%23F37626&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=Numpy&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=Pandas&logoColor=%23150458&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Figma-%230ACF83?style=for-the-badge&logo=Figma&logoColor=white&logoSize=auto)
+
 
 ## Connect with me:
 <img alt="Static Badge" src="https://img.shields.io/badge/kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white&link=https%3A%2F%2Fwww.kaggle.com%2Fchristiangarcia0311">
