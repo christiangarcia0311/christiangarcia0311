@@ -2,7 +2,7 @@
 
 ## Socials:
 <img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-blue?style=for-the-badge&logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2Fiyaniyan11"> <img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fits_iyaniyan%3Figsh%3DMXU3bWx2ODhkN3hsNw%3D%3D"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40iyaniyan_11"> <img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%2369C9D0?style=for-the-badge&logo=tiktok&logoColor=white&link=tiktok.com%2F%40iyaniyan0311">
+<img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40iyaniyan_11">
 
 ## How to reach me:
 <img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23DB4437?style=for-the-badge&logo=gmail&logoColor=white&link=iyaniyan03112003%40gmail.com">
@@ -10,15 +10,17 @@
 ## Current Status:
 - 💻 3rd year CS Student
 - 🔍 Looking for connections in **Web Development** and **Package Deployment**.
-- 💬 Feel free to discuss me about **Machine Learning**, **Web Development**, **Programming** and **Frameworks**. 
+- 💬 Feel free to discuss me about **Machine Learning**, **Web Development**, **Programming**, **Excel** and **Frameworks**. 
 
 ## Tools, Languages and Frameworks i work on:
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/PHP-%234F5D95?style=for-the-badge&logo=Php&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/HTML-%23E44D26?style=for-the-badge&logo=Html5&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=Tailwindcss&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Termux-%231E90FF?style=for-the-badge&logo=GNU%20bash&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Flask-%23%23000000?style=for-the-badge&logo=Flask&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black&logoSize=amg)
 ![Static Badge](https://img.shields.io/badge/Node.Js-%23339933?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=amg)
