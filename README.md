@@ -9,8 +9,8 @@
 
 ## Current Status:
 - 💻 3rd year CS Student
-- 🔍 Looking for connections in **Web Development** and **Package Deployment**.
-- 💬 Feel free to discuss me about **Machine Learning**, **Web Development**, **Programming**, **Excel** and **Frameworks**. 
+- 🔍 Looking for connections in **Web Development** and **Machine Learning Projects**.
+- 💬 Feel free to discuss me about **Data Mining**, **Web/Package Development**, **Programming**, **Basic Excel** and **Frameworks**. 
 
 ## Tools, Languages and Frameworks i work on:
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
