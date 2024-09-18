@@ -1,12 +1,12 @@
 # ![github-header-image](assets/logo_dev.gif)
 
 ## Socials:
-<a href="https://www.facebook.com/iyaniyan11"><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%235882ff?style=for-the-badge&logo=facebook"></a>
-<a href="https://www.instagram.com/its_iyaniyan?igsh=MXU3bWx2ODhkN3hsNw=="><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%235882ff?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.facebook.com/iyaniyan11"><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23d5d5d5?style=for-the-badge&logo=facebook&logoColor=%230A0209"></a>
+<a href="https://www.instagram.com/its_iyaniyan?igsh=MXU3bWx2ODhkN3hsNw=="><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23d5d5d5?style=for-the-badge&logo=instagram&logoColor=%230A0209"></a>
 
 
 ## How to reach me:
-<a href="mailto:iyaniyan03112003@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%235882ff?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:iyaniyan03112003@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23d5d5d5?style=for-the-badge&logo=gmail&logoColor=%230A0209"></a>
 
 ## Current Status:
 - 💻 3rd year CS Student
@@ -39,7 +39,7 @@
 
 
 ## Connect with me:
-<img alt="Static Badge" src="https://img.shields.io/badge/kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white&link=https%3A%2F%2Fwww.kaggle.com%2Fchristiangarcia0311">
+<img alt="Static Badge" src="https://img.shields.io/badge/kaggle-%23d5d5d5?style=for-the-badge&logo=kaggle&logoColor=%230A0209&link=https%3A%2F%2Fwww.kaggle.com%2Fchristiangarcia0311">
 
 ## Profile Visits:
-![](https://komarev.com/ghpvc/?username=christiangarcia0311&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=christiangarcia0311&color=0a0209&style=for-the-badge)
