@@ -6,7 +6,7 @@
 
 
 ## How to reach me:
-<img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23DB4437?style=for-the-badge&logo=gmail&logoColor=white&link=iyaniyan03112003%40gmail.com">
+<a href="mailto:iyaniyan03112003@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%235882ff?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Current Status:
 - 💻 3rd year CS Student
