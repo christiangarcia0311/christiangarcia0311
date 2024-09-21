@@ -10,8 +10,8 @@
 
 ## Current Status:
 - 💻 3rd year CS Student
-- 🔍 Looking for connections in **Web Development** and **Machine Learning Projects**.
-- 💬 Feel free to discuss me about **Data Mining**, **Web/Package Development**, **Programming**, **Basic Excel** and **Frameworks**. 
+- 🔍 Looking for connections in **Web Development**, **Software Projects** and **Machine Learning Projects**.
+- 💬 Feel free to discuss me about **Database**, **Web and Package Development**, **Programming**, **Basic Excel** and **Frameworks**. 
 
 ## Tools, Languages and Frameworks i work on:
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -36,10 +36,6 @@
 ![Static Badge](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=Numpy&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=Pandas&logoColor=%23150458&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Figma-%230ACF83?style=for-the-badge&logo=Figma&logoColor=white&logoSize=auto)
-
-
-## Connect with me:
-<img alt="Static Badge" src="https://img.shields.io/badge/kaggle-%23d5d5d5?style=for-the-badge&logo=kaggle&logoColor=%230A0209&link=https%3A%2F%2Fwww.kaggle.com%2Fchristiangarcia0311">
 
 ## Profile Visits:
 ![](https://komarev.com/ghpvc/?username=christiangarcia0311&color=0a0209&style=for-the-badge)
