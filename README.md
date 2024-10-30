@@ -9,9 +9,10 @@
 <a href="mailto:iyaniyan03112003@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23d5d5d5?style=for-the-badge&logo=gmail&logoColor=%230A0209"></a>
 
 ## Current Status:
-- 💻 3rd year CS Student
-- 🔍 Looking for connections in **Web Development**, **Software Projects** and **Data Engineering Projects**.
-- 💬 Feel free to discuss me about **Databases**, **Web and Package Development**, **Programming**, **Data Engineering** and **Frameworks**. 
+- 💻 3rd year Computer Science Student.
+- 💻 Associate Data Engineering Learner in DataCamp.
+- 💻 Working with SQL and Python.
+- 💻 Building Websites and Packages for data and security solutions.
 
 ## Tools, Languages and Frameworks i work on:
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -37,5 +38,8 @@
 ![Static Badge](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=Pandas&logoColor=%23150458&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Figma-%230ACF83?style=for-the-badge&logo=Figma&logoColor=white&logoSize=auto)
 
-## Profile Visits:
-![](https://komarev.com/ghpvc/?username=christiangarcia0311&color=0a0209&style=for-the-badge)
+## Connect with Me:
+
+<img alt="Static Badge" src="https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp&link=https%3A%2F%2Fwww.datacamp.com%2Fportfolio%2Fja7b1fxd">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fchristiangarcia0311">
