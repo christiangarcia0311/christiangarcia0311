@@ -40,9 +40,5 @@
 
 ## Connect with Me:
 
-<img alt="Static Badge" src="https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp&link=https%3A%2F%2Fwww.datacamp.com%2Fportfolio%2Fja7b1fxd">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fchristiangarcia0311">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/PyPi-black?style=for-the-badge&logo=Pypi&link=https%3A%2F%2Fpypi.org%2Fuser%2Fiyaniyan2003%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp&link=https%3A%2F%2Fwww.datacamp.com%2Fportfolio%2Fja7b1fxd"> <img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fchristiangarcia0311"> <img alt="Static Badge" src="https://img.shields.io/badge/PyPi-black?style=for-the-badge&logo=Pypi&link=https%3A%2F%2Fpypi.org%2Fuser%2Fiyaniyan2003%2F">
 
