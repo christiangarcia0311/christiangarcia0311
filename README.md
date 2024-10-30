@@ -11,7 +11,7 @@
 ## Current Status:
 - 💻 3rd year CS Student
 - 🔍 Looking for connections in **Web Development**, **Software Projects** and **Machine Learning Projects**.
-- 💬 Feel free to discuss me about **Database**, **Web and Package Development**, **Programming**, **Data Science** and **Frameworks**. 
+- 💬 Feel free to discuss me about **Databases**, **Web and Package Development**, **Programming**, **Data Engineering** and **Frameworks**. 
 
 ## Tools, Languages and Frameworks i work on:
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
