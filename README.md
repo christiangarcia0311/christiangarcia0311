@@ -39,6 +39,4 @@
 ![Static Badge](https://img.shields.io/badge/Figma-%230ACF83?style=for-the-badge&logo=Figma&logoColor=white&logoSize=auto)
 
 ## Connect with Me:
-
-<img alt="Static Badge" src="https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp&link=https%3A%2F%2Fwww.datacamp.com%2Fportfolio%2Fja7b1fxd"> <img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fchristiangarcia0311"> <img alt="Static Badge" src="https://img.shields.io/badge/PyPi-black?style=for-the-badge&logo=Pypi&link=https%3A%2F%2Fpypi.org%2Fuser%2Fiyaniyan2003%2F">
-
+<a href="https://www.datacamp.com/portfolio/ja7b1fxd"><img alt="Static Badge" src="https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp"></a> <a href="https://www.kaggle.com/christiangarcia0311"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle"></a> <a href="https://pypi.org/user/iyaniyan2003/"><img alt="Static Badge" src="https://img.shields.io/badge/Pypi-black?style=for-the-badge&logo=pypi&logoColor=white"></a>
