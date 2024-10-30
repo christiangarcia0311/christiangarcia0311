@@ -10,7 +10,7 @@
 
 ## Current Status:
 - 💻 3rd year CS Student
-- 🔍 Looking for connections in **Web Development**, **Software Projects** and **Machine Learning Projects**.
+- 🔍 Looking for connections in **Web Development**, **Software Projects** and **Data Engineering Projects**.
 - 💬 Feel free to discuss me about **Databases**, **Web and Package Development**, **Programming**, **Data Engineering** and **Frameworks**. 
 
 ## Tools, Languages and Frameworks i work on:
