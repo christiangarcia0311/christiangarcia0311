@@ -13,6 +13,8 @@
 - 💻 Associate Data Engineering in SQL Learner in DataCamp.
 - 💻 Working with SQL, PHP and Python.
 - 💻 Building Websites and Packages for data and security solutions.
+- 💻 Creating data pipelines and webscrapping.
+- 💻 Managing website security threats.
 
 ## Tools, Languages and Frameworks i work on:
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
