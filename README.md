@@ -11,8 +11,8 @@
 ## Current Status:
 - 💻 3rd year Computer Science Student.
 - 💻 Associate Data Engineering in SQL Learner in DataCamp.
-- 💻 Working with SQL, PHP and Python.
-- 💻 Building Websites and Packages for data and security solutions.
+- 💻 Working with SQL, PHP, JavaScript and Python.
+- 💻 Building API's, Websites and Packages.
 - 💻 Creating data pipelines and webscrapping.
 - 💻 Managing website security threats.
 
