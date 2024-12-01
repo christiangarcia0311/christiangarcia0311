@@ -20,6 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/PHP-%234F5D95?style=for-the-badge&logo=Php&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/postgresql-%23336791?style=for-the-badge&logo=postgresql&logoColor=white&color=%23336791)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B)
 ![Static Badge](https://img.shields.io/badge/HTML-%23E44D26?style=for-the-badge&logo=Html5&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white)
