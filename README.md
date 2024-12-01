@@ -13,7 +13,7 @@
 - 💻 Associate Data Engineering in SQL Learner in DataCamp.
 - 💻 Working with SQL, PHP, JavaScript and Python.
 - 💻 Building API's, Websites and Packages.
-- 💻 Creating data pipelines and webscrapping.
+- 💻 Building pipelines and AI/ML Models.
 - 💻 Managing website security threats.
 
 ## Tools, Languages and Frameworks i work on:
@@ -29,6 +29,7 @@
 ![Static Badge](https://img.shields.io/badge/Flask-%23%23000000?style=for-the-badge&logo=Flask&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black&logoSize=amg)
 ![Static Badge](https://img.shields.io/badge/Node.Js-%23339933?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=amg)
+![Static Badge](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white&logoSize=amg)
 ![Static Badge](https://img.shields.io/badge/xampp-%23FB7A24?style=for-the-badge&logo=Xampp&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Vs_Code-black?style=for-the-badge&logo=Visual-studio-code&logoColor=%23007ACC&logoSize=auto)
