@@ -13,7 +13,7 @@
 - 💻 Associate Data Engineering in SQL Learner in DataCamp.
 - 💻 Working with SQL, PHP, JavaScript and Python.
 - 💻 Building API's, Websites and Packages.
-- 💻 Building pipelines and AI/ML Models.
+- 💻 Building AI/ML Models.
 - 💻 Managing website security threats.
 
 ## Tools, Languages and Frameworks i work on:
