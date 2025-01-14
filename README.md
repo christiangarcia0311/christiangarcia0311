@@ -10,7 +10,7 @@
 
 ## Current Status:
 - 💻 3rd year Computer Science Student.
-- 💻 Associate Data Engineering in SQL Learner in DataCamp.
+- 💻 Currently working with django and flask framework.
 - 💻 Working with SQL, PHP, JavaScript and Python.
 - 💻 Building API's, Websites and Packages.
 - 💻 Building AI/ML Models.
