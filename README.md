@@ -10,8 +10,8 @@
 
 ## Current Status:
 - 💻 3rd year Computer Science Student.
-- 💻 Currently working with django and flask framework.
-- 💻 Working with SQL, PHP, JavaScript and Python.
+- 💻 Currently working with django and django rest framework.
+- 💻 Working with PostgreSQL, JavaScript and Python.
 - 💻 Building API's, Websites and Packages.
 - 💻 Building AI/ML Models.
 - 💻 Managing website security threats.
