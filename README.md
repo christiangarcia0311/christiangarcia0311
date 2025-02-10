@@ -10,11 +10,10 @@
 
 ## Current Status:
 - 💻 3rd year Computer Science Student.
-- 💻 Currently working with django and django rest framework.
-- 💻 Working with PostgreSQL, JavaScript and Python.
-- 💻 Building API's, Websites and Packages.
-- 💻 Building AI/ML Models.
-- 💻 Managing website security threats.
+- 💻 Currently working with Django, ReactJS, Tailwind and PostgreSQL.
+- 💻 Currently manage development with Linux Mint Xcfe as OS.
+- 💻 Manage API's and Web Systems.
+- 💻 Building Python packages.
 
 ## Tools, Languages and Frameworks i work on:
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
