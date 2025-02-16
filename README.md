@@ -3,17 +3,16 @@
 ## Socials:
 <a href="https://www.facebook.com/iyaniyan11"><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23d5d5d5?style=for-the-badge&logo=facebook&logoColor=%230A0209"></a>
 <a href="https://www.instagram.com/its_iyaniyan?igsh=MXU3bWx2ODhkN3hsNw=="><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23d5d5d5?style=for-the-badge&logo=instagram&logoColor=%230A0209"></a>
-<a href="https://www.linkedin.com/in/christian-garcia-686805325"><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23d5d5d5?style=for-the-badge&logo=linkedin&logoColor=%230A0209"></a>
 
 ## How to reach me:
 <a href="mailto:iyaniyan03112003@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23d5d5d5?style=for-the-badge&logo=gmail&logoColor=%230A0209"></a>
 
 ## Current Status:
-- 💻 3rd year Computer Science Student.
-- 💻 Currently working with Django, ReactJS, Tailwind and PostgreSQL.
-- 💻 Currently manage development with Linux Mint Xcfe as OS.
-- 💻 Manage API's and Web Systems.
-- 💻 Building Python packages.
+- 💻 **3rd year Computer Science Student** at SNSU - Main Campus.
+- 💻 Currently working with Fullstack Development using **Django**, **ReactJS**, **Tailwind** and **PostgreSQL**.
+- 💻 Currently manage development with **Linux Mint Xcfe**, optmizing workflows for efficiency and performance.
+- 💻 Designing, implementing and maintaining **RESTful API's** and **web-based solutions**.
+- 💻 Creating reusable and efficient **Python packages** for automation, data processing, and software development.
 
 ## Tools, Languages and Frameworks i work on:
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
