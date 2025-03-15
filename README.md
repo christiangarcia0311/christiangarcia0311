@@ -40,5 +40,10 @@
 ![Static Badge](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=Pandas&logoColor=%23150458&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Figma-%230ACF83?style=for-the-badge&logo=Figma&logoColor=white&logoSize=auto)
 
+
+## DataCamp Certification of Accomplishment
+- [Introduction to Relational Databases SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/919cf629caaffc24a93bd9fe4bc872b881ec9f0e)
+- [Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/066dca7af604ff0f91524cb95f68f83cd22b2f9e)
+
 ## Connect with Me:
 <a href="https://www.datacamp.com/portfolio/ja7b1fxd"><img alt="Static Badge" src="https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp"></a> <a href="https://www.kaggle.com/christiangarcia0311"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle"></a> <a href="https://pypi.org/user/iyaniyan2003/"><img alt="Static Badge" src="https://img.shields.io/badge/Pypi-black?style=for-the-badge&logo=pypi&logoColor=white"></a>
