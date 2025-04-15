@@ -9,7 +9,7 @@
 
 ## Current Status:
 - 💻 **3rd year Computer Science Student** at SNSU - Main Campus.
-- 💻 Currently working with Fullstack Development using **Django**, **ReactJS**, **Tailwind** and **PostgreSQL**.
+- 💻 Currently working with Fullstack Development using **Django**, **ReactJS**, **Tailwind**, **PostgreSQL** and **Flask**.
 - 💻 Currently manage development with **Linux Mint Xcfe**, optmizing workflows for efficiency and performance.
 - 💻 Designing, implementing and maintaining **RESTful API's** and **web-based solutions**.
 - 💻 Creating reusable and efficient **Python packages** for automation, data processing, and software development.
