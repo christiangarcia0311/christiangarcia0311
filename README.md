@@ -7,8 +7,6 @@
 ## How to reach me:
 <a href="mailto:iyaniyan03112003@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23d5d5d5?style=for-the-badge&logo=gmail&logoColor=%230A0209"></a>
 
-## Student CV:
-- [Download CV](assets/Student-CV.pdf)
 ## Current Status:
 - 💻 **4th year Computer Science Student** at SNSU - Main Campus.
 - 💻 Currently working with Fullstack Development using **Django**, **ReactJS**, **Tailwind**, **PostgreSQL** and **Flask**.
