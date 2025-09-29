@@ -32,11 +32,14 @@
 ![Static Badge](https://img.shields.io/badge/xampp-%23FB7A24?style=for-the-badge&logo=Xampp&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Vs_Code-black?style=for-the-badge&logo=Visual-studio-code&logoColor=%23007ACC&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PyCharm-%2300BFB3?style=for-the-badge&logo=Pycharm&logoColor=black&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=%23F37626&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=Numpy&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=Pandas&logoColor=%23150458&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Figma-%230ACF83?style=for-the-badge&logo=Figma&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/ionic_framework-white?style=for-the-badge&logo=ionic)
+![Static Badge](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase)
+
+
 
 
 ## Connect with Me:
