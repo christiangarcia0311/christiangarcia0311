@@ -1,4 +1,11 @@
-# ![github-header-image](assets/logo4.2.png)
+![github-header-image](assets/logo4.2.png)
+
+## **About Me**
+
+- 🎓 4th Year Computer Science student at **Surigao Del Norte State University (SNSU Main)**
+- 💻 Freelance **Backend Web Developer**
+- ⚙️ I love writing code.
+
 
 ## Socials:
 <a href="https://www.facebook.com/iyaniyan11"><img alt="Static Badge" src="https://img.shields.io/badge/Christian_Garcia-%23d5d5d5?style=for-the-badge&logo=facebook&logoColor=%230A0209"></a>
@@ -7,20 +14,7 @@
 
 
 ## Technologies i work on:
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
-![Static Badge](https://img.shields.io/badge/PHP-%234F5D95?style=for-the-badge&logo=Php&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Static Badge](https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=MariaDB&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Flask-%23%23000000?style=for-the-badge&logo=Flask&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black&logoSize=amg)
-![Static Badge](https://img.shields.io/badge/Node.Js-%23339933?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=amg)
-![Static Badge](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=%23339933)
-![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white&logoSize=amg)
-![Static Badge](https://img.shields.io/badge/xampp-%23FB7A24?style=for-the-badge&logo=Xampp&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/ionic_framework-white?style=for-the-badge&logo=ionic)
-![Static Badge](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase)
+![My Skills](https://skillicons.dev/icons?i=js,python,typescript,react,php,git,gcp,firebase,docker,flask,django,linux,mint,mysql,nodejs,vite,github,tailwind)
 
 
 
