@@ -1,5 +1,7 @@
 ![github-header-image](assets/logo4.2.png)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0089FF&center=true&vCenter=true&width=435&lines=Hi+i'm+Christian+Garcia;I'm+a+Software+Web+Developer;I+love+making+Web+Applications;I+love+writing+and+debugging+code)](https://git.io/typing-svg)
+
 ## **About Me**
 
 - 🎓 4th Year Computer Science student at **Surigao Del Norte State University (SNSU Main)**
