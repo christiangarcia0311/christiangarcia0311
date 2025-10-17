@@ -16,7 +16,7 @@
 
 
 ## Technologies i work on:
-![My Skills](https://skillicons.dev/icons?i=js,python,typescript,react,php,git,gcp,firebase,docker,flask,django,linux,mint,mysql,nodejs,vite,github,tailwind)
+![My Skills](https://skillicons.dev/icons?i=js,python,typescript,react,php,git,gcp,firebase,docker,flask,django,linux,mint,mysql,nodejs,vite,github,tailwind,postman)
 
 ## Connect with Me:
 <a href="https://www.datacamp.com/portfolio/ja7b1fxd"><img alt="Static Badge" src="https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp"></a> <a href="https://www.kaggle.com/christiangarcia0311"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle"></a> <a href="https://pypi.org/user/christiangarcia0311/"><img alt="Static Badge" src="https://img.shields.io/badge/Pypi-black?style=for-the-badge&logo=pypi"></a>
