@@ -19,7 +19,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,python,typescript,react,php,git,gcp,firebase,docker,flask,django,linux,mint,mysql,nodejs,vite,github,tailwind,postman)
 
 ## Connect with Me:
-<a href="https://www.datacamp.com/portfolio/ja7b1fxd"><img alt="Static Badge" src="https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp"></a> <a href="https://www.kaggle.com/christiangarcia0311"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle"></a> <a href="https://pypi.org/user/christiangarcia0311/"><img alt="Static Badge" src="https://img.shields.io/badge/Pypi-black?style=for-the-badge&logo=pypi"></a>
+<a href="https://www.datacamp.com/portfolio/ja7b1fxd"><img alt="Static Badge" src="https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp"></a> <a href="https://www.kaggle.com/christiangarcia0311"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle"></a> <a href="https://pypi.org/user/christiangarcia0311/"><img alt="Static Badge" src="https://img.shields.io/badge/Pypi-black?style=for-the-badge&logo=pypi"></a></a> <a href="https://stackoverflow.com/users/31716470/christian-garcia"><img alt="Static Badge" src="https://img.shields.io/badge/Stack_Overflow-black?style=for-the-badge&logo=stackoverflow"></a> 
 
 ![Christian Garcia Github stats](https://github-readme-stats.vercel.app/api?username=christiangarcia0311&show_icons=true&theme=transparent&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christiangarcia0311&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&layout=compact)
