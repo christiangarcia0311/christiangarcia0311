@@ -5,7 +5,7 @@
 ## **About Me**
 
 - 🎓 4th Year Computer Science student at **Surigao Del Norte State University (SNSU Main)**
-- 💻 Freelance **Backend Web Developer**
+- 💻 Freelance **Software Web Developer**
 - ⚙️ I love writing code.
 
 
