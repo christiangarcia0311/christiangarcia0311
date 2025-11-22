@@ -16,7 +16,7 @@
 
 
 ## Technologies i work on:
-![My Skills](https://skillicons.dev/icons?i=js,python,typescript,react,php,git,gcp,firebase,docker,flask,django,linux,mint,fastapi,mysql,nodejs,vite,github,tailwind,postman)
+![My Skills](https://skillicons.dev/icons?i=js,python,typescript,react,git,gcp,firebase,docker,flask,django,linux,mint,fastapi,mysql,nodejs,vite,github,tailwind,postman,npm)
 
 ## Datasets and Learning:
 <a href="https://www.datacamp.com/portfolio/ja7b1fxd"><img alt="Static Badge" src="https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp"></a> 
