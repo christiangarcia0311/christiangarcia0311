@@ -34,5 +34,5 @@
 
 ### Project i work on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christiangarcia0311&repo=snsu-community-forum-app&theme=transparent&hide_border=true)](https://github.com/anuraghazra/snsu-community-forum-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christiangarcia0311&repo=beaver-box-tool&theme=transparent&hide_border=true)](https://github.com/anuraghazra/beaver-box-tool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christiangarcia0311&repo=snsu-community-forum-app&theme=transparent&hide_border=true)](https://github.com/christiangarcia0311/snsu-community-forum-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christiangarcia0311&repo=beaver-box-tool&theme=transparent&hide_border=true)](https://github.com/christiangarcia0311/beaver-box-tool)
