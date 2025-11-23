@@ -32,3 +32,7 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=christiangarcia0311&theme=github-dark-dimmed)
 
+### Project i work on:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christiangarcia0311&repo=snsu-community-forum-app&theme=transparent&hide_border=true)](https://github.com/anuraghazra/snsu-community-forum-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christiangarcia0311&repo=beaver-box-tool&theme=transparent&hide_border=true)](https://github.com/anuraghazra/beaver-box-tool)
