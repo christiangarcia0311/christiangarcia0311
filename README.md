@@ -27,12 +27,6 @@
 <a href="https://pypi.org/user/christiangarcia0311/"><img alt="Static Badge" src="https://img.shields.io/badge/Pypi-black?style=for-the-badge&logo=pypi"></a>
 <a href="https://www.npmjs.com/~christiangarcia"><img alt="Static Badge" src="https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm"></a>
 
-![Christian Garcia Github stats](https://github-readme-stats.vercel.app/api?username=christiangarcia0311&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christiangarcia0311&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&layout=compact)
-
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=christiangarcia0311&theme=github-dark-dimmed)
 
-### Project i work on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christiangarcia0311&repo=snsu-community-forum-app&theme=transparent&hide_border=true)](https://github.com/christiangarcia0311/snsu-community-forum-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christiangarcia0311&repo=beaver-box-tool&theme=transparent&hide_border=true)](https://github.com/christiangarcia0311/beaver-box-tool)
