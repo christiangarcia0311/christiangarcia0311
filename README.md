@@ -27,6 +27,3 @@
 <a href="https://pypi.org/user/christiangarcia0311/"><img alt="Static Badge" src="https://img.shields.io/badge/Pypi-black?style=for-the-badge&logo=pypi"></a>
 <a href="https://www.npmjs.com/~christiangarcia"><img alt="Static Badge" src="https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm"></a>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=christiangarcia0311&theme=github-dark-dimmed)
-
-
