@@ -1,6 +1,6 @@
 ![github-header-image](assets/logo4.2.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0089FF&center=true&vCenter=true&width=435&lines=Hi+i'm+Christian+Garcia;I'm+a+Software+Web+Developer;I+love+making+Web+Applications;I+love+writing+and+debugging+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0089FF&center=true&vCenter=true&width=435&lines=Hi+i'm+Christian+Garcia;I'm+a+Software+Web+Developer;I+love+making+Applications;I+love+writing+and+debugging+code)](https://git.io/typing-svg)
 
 ## **About Me**
 
@@ -16,7 +16,7 @@
 
 
 ## Technologies i work on:
-![My Skills](https://skillicons.dev/icons?i=js,python,typescript,react,git,gcp,firebase,docker,flask,django,linux,mint,fastapi,mysql,nodejs,vite,github,tailwind,postman,npm)
+![My Skills](https://skillicons.dev/icons?i=js,python,typescript,react,git,gcp,firebase,docker,flask,django,linux,mint,fastapi,mysql,nodejs,vite,github,tailwind,postman,npm,cloudflare)
 
 ## Datasets and Learning:
 <a href="https://www.datacamp.com/portfolio/ja7b1fxd"><img alt="Static Badge" src="https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp"></a> 
