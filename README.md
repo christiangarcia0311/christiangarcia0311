@@ -1,11 +1,11 @@
 ![github-header-image](assets/logo4.2.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0089FF&center=true&vCenter=true&width=435&lines=Hi+i'm+Christian+Garcia;I'm+a+Software+Web+Developer;I+love+making+Applications;I+love+writing+and+debugging+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0089FF&center=true&vCenter=true&width=435&lines=Hi+i'm+Christian+Garcia;I'm+a+Software+Developer;I+love+making+Applications;I+love+writing+and+debugging+code)](https://git.io/typing-svg)
 
 ## **About Me**
 
 - 🎓 3rd Year Computer Science student at **Surigao Del Norte State University (SNSU Main)**
-- 💻 Freelance **Software Web Developer**
+- 💻 Freelance **Software Developer**
 - ⚙️ I read, I write code.
 
 
@@ -16,13 +16,9 @@
 
 
 ## Technologies i work on:
-![My Skills](https://skillicons.dev/icons?i=js,python,typescript,react,git,gcp,firebase,docker,flask,django,linux,mint,fastapi,mysql,nodejs,vite,github,tailwind,postman,npm,cloudflare)
+![My Skills](https://skillicons.dev/icons?i=js,python,typescript,react,git,docker,flask,django,linux,mint,mysql,nodejs,vite,github,tailwind,postman,npm,cloudflare)
 
-## Datasets and Learning:
-<a href="https://www.datacamp.com/portfolio/ja7b1fxd"><img alt="Static Badge" src="https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp"></a> 
-<a href="https://www.kaggle.com/christiangarcia0311"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle"></a> 
-
-## Solutions and Packages:
+## Connect with me:
 <a href="https://stackoverflow.com/users/31716470/christian-garcia"><img alt="Static Badge" src="https://img.shields.io/badge/Stack_Overflow-black?style=for-the-badge&logo=stackoverflow"></a> 
 <a href="https://pypi.org/user/christiangarcia0311/"><img alt="Static Badge" src="https://img.shields.io/badge/Pypi-black?style=for-the-badge&logo=pypi"></a>
 <a href="https://www.npmjs.com/~christiangarcia"><img alt="Static Badge" src="https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm"></a>
