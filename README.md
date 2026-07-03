@@ -25,9 +25,6 @@
 | Container and Hosting | ![My Skills](https://skillicons.dev/icons?i=docker,cloudflare,nginx,vercel)  |
 | Version Control & Package Manager | ![My Skills](https://skillicons.dev/icons?i=git,github) ![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=pypi)
 
-![christiangarcia0311's Contributions](https://github.pumbas.net/api/contributions/christiangarcia0311)
-
-
 
 
 
