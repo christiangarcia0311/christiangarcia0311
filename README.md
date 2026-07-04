@@ -13,19 +13,14 @@
 
 ## Tech Stack
 
-| Categories | Tools |
-|:---|:---|
-| Programming Language | ![My Skills](https://skillicons.dev/icons?i=python,typescript,rust) |
-| Backend Framework Tools | ![My Skills](https://skillicons.dev/icons?i=django,fastapi,flask,tauri) |
-| Frontend Framework | ![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind) |
-| Databases | ![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite) |
-| API Tester Tool | ![My Skills](https://skillicons.dev/icons?i=postman) ![My SKills](https://skills.syvixor.com/api/icons?perline=15&i=thunderclient) |
-| Machine Learning & Computer Vision | ![My Skills](https://skillicons.dev/icons?i=sklearn,opencv) ![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=matplotlib,pandas,jupyter) |
-| Operating System | ![My Skills](https://skillicons.dev/icons?i=linux,mint)  |
-| Container and Hosting | ![My Skills](https://skillicons.dev/icons?i=docker,cloudflare,nginx,vercel)  |
-| Version Control & Package Manager | ![My Skills](https://skillicons.dev/icons?i=git,github) ![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=pypi)
-
-
+| Categories | Tools | Categories | Tools
+|:---|:---|:---|:---|
+| Programming Language | ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=python,ts,rust) | API Tester Tool | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=postman,thunderclient) |
+| Backend Framework | ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=django,fastapi,flask) | Machine Learning & Computer Vision | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=opencv-dark,scikitlearn-dark,scipy-dark,yolo-dark) |
+| Native Runtime | ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=tauri,capacitorjs) | Operating System | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=linux-dark,linuxmint) |
+| Frontend Framework | ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=react,tailwindcss,shadcnui) | Container | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=docker) |
+| Databases | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=postgresql-dark,sqlite) | Web Server & Hosting | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=cloudflare-dark,nginx,ngrok,vercel-dark) |
+| Workstation | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=jupyter-light,termux-dark,vim-dark,visualstudiocode-dark) | AI Tools | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=chatgpt,githubcopilot-dark,googlegemini-dark) |
 
 
 
