@@ -9,9 +9,9 @@
 
 
 >[!TIP]
-> Always **Learning**, Always **Building**.
+> Always **Building**, Always **Learning**.
 
-## Technologies Used
+## Tech Stack
 
 | Categories | Tools |
 |:---|:---|
