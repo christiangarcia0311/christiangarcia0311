@@ -23,5 +23,12 @@
 | Workstation | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=jupyter-light,termux-dark,vim-dark,visualstudiocode-dark) | AI Tools | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=chatgpt,githubcopilot-dark,googlegemini-dark) |
 
 
+# Projects
+
+| Project Name | Logo |
+|---|---|
+| **bridgev3** |<img height=60 width=60 src="./assets/icon.png" alt="bridgev3"> |
+
+
 
 
