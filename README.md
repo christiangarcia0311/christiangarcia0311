@@ -19,7 +19,7 @@
 | Backend Framework | ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=django,fastapi,flask) | Machine Learning & Computer Vision | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=opencv-dark,scikitlearn-dark,scipy-dark,yolo-dark) |
 | Native Runtime | ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=tauri,capacitorjs) | Operating System | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=linux-dark,linuxmint) |
 | Frontend Framework | ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=react,tailwindcss,shadcnui) | Container | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=docker) |
-| Databases | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=postgresql-dark,sqlite) | Web Server & Hosting | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=cloudflare-dark,nginx,ngrok,vercel-dark) |
+| Databases | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=postgresql-dark,sqlite) | Web Server & Hosting | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=cloudflare-dark,nginx,vercel-dark,github,gitea) |
 | Workstation | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=jupyter-light,termux-dark,vim-dark,visualstudiocode-dark) | AI Tools | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=chatgpt,googlegemini-dark,claudeai) |
 
 
