@@ -20,14 +20,7 @@
 | Native Runtime | ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=tauri,capacitorjs) | Operating System | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=linux-dark,linuxmint) |
 | Frontend Framework | ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=react,tailwindcss,shadcnui) | Container | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=docker) |
 | Databases | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=postgresql-dark,sqlite) | Web Server & Hosting | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=cloudflare-dark,nginx,ngrok,vercel-dark) |
-| Workstation | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=jupyter-light,termux-dark,vim-dark,visualstudiocode-dark) | AI Tools | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=chatgpt,githubcopilot-dark,googlegemini-dark) |
-
-
-# Projects
-
-| Project Name | Logo |
-|---|---|
-| **bridgev3** |<img height=60 width=60 src="./assets/icon.png" alt="bridgev3"> |
+| Workstation | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=jupyter-light,termux-dark,vim-dark,visualstudiocode-dark) | AI Tools | ![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=chatgpt,googlegemini-dark,claudeai) |
 
 
 
